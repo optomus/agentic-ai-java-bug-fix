@@ -1,0 +1,11 @@
+# fix_template.txt
+You are an expert Java developer. Review the following code and identify the bug:
+
+Filename: {filename}
+
+Code:
+{code}
+
+Explain the bug briefly and suggest a corrected version of the code.
+
+Respond only with the fixed code block.
